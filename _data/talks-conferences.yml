@@ -1,12 +1,25 @@
-- name: VIII Iberoamerican Meeting on Geometry, Dynamics, and Field Theory
+- name: Annual Meeting EAAS 2026
   type: conference
-  website: https://wp.ull.es/8ibmgmft/
-  start_date: 2026-01-19
-  end_date: 2026-01-23
-  role: attended
+  website: https://www.d-iep.org/eeas-first-annual-meeting
+  start_date: 2026-04-07
+  end_date: 2026-040-08
+  role: contributed
   # attended / invited / contributed / organised / speaker (for seminars) / regular (for seminars)
-  location: Universidad de La Laguna
+  location: Amsterdam Public Library
+  talk_title: Entropy and Noncommutative Geometry
   #talk_title: title
+- name: Kickoff Meeting EAAS
+  type: conference
+  website: https://www.d-iep.org/eaaskickoff
+  start_date: 2025-10-27
+  location: Tolhuistuin Amsterdam
+  role: attended
+- name: NCG Symposium
+  type: symposium
+  start_date: 2025-12-02
+  role: attended
+  location: Radboud Universiteit Nijmegen
+  website: https://www.noncommutativegeometry.nl/meetings/ncg-symposium-ii/
 - name: Master Class Algebraic Geometry & Physics
   type: masterclass
   website: http://ronan.terpereau.perso.math.cnrs.fr/Master_Class_2023_Dijon.html
@@ -17,23 +30,23 @@
 - name: Friday Fish Seminar
   type: seminar
   website: https://friday-fish.github.io/
-  start_date: 2024-12-13
-  start_date: 2025-01-31
+  start_date: 2024-12-03
+  start_date: 2024-12-19
   role: speaker
   location: Universiteit Utrecht
-  talk_title: An Algebro-Geometric Construction of Gromov–Witten Invariants
+  talk_title: A symplectic approach to Gromov–Witten invariants
 - name: Friday Fish Seminar
   type: seminar
   website: https://friday-fish.github.io/
-  start_date: 2025-05-16
+  start_date: 2025-07-12
   role: speaker
   location: Universiteit Utrecht
-  talk_title: A Geometric Introduction to Topological String Theory and Mirror Symmetry
+  talk_title: Computing quantum cohomology of toric varieties using topological string theory
 - name: Friday Fish Seminar
   type: seminar
   website: https://friday-fish.github.io/
   start_date: 2024-09-01
-  end_date: 2025-11-21
+  end_date: 2025-10-03
   role: regular
   location: Universiteit Utrecht
 - name: Symplectic Dirty Hands Seminar
@@ -50,31 +63,29 @@
   end_date: 2024-06-28
   role: attended
   location: Radboud Universiteit Nijmegen, Universiteit Utrecht
-- name: CTAAAG
+- name: Geometry Seminar
   type: seminar
-  website: https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html
-  start_date: 2025-12-02
-  role: speaker
-  location: Vrije Universiteit Amsterdam
-  talk_title: The Symplectic Diffeomorphism Group
-  location: Vrije Universiteit Amsterdam
-- name: CTAAAG
-  type: seminar
-  website: https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html
-  start_date: 2025-10-15
+  website: https://www.math.ru.nl/geometryseminar/
+  start_date: 2025-09-16
   role: regular
-  location: Vrije Universiteit Amsterdam
+  location: Radboud Universiteit Nijmegen
 - name: DDT&G
   type: seminar
   website: https://www.few.vu.nl/~trt800/ddtg.html
   start_date: 2025-03-07
   role: regular
   location: Universiteit Leiden, Universiteit Utrecht, Vrije Universiteit Amsterdam
-- name: CTAAAG
+- name: Local NCG Seminar
   type: seminar
-  website: https://www.few.vu.nl/~trt800/arbeitsgemeinschaft.html
-  start_date: 2026-03-10
+  website: https://www.waltervansuijlekom.nl/research/ncgseminar/
+  start_date: 2025-12-11
   role: speaker
-  location: Vrije Universiteit Amsterdam
-  talk_title: Gromov–Witten Invariants in Quantum Cohomology and Floer Theory
-  location: Vrije Universiteit Amsterdam
+  location: Radboud Universiteit Nijmegen
+  talk_title: Homotopy theory of Fredholm operators
+- name: Local NCG Seminar
+  type: seminar
+  role: regular
+  website: https://www.waltervansuijlekom.nl/research/ncgseminar/
+  start_date: 2025-11-06
+  end_date: 2026-01-15
+  location: Radboud Universiteit Nijmegen

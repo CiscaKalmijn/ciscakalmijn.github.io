@@ -11,17 +11,17 @@ url: https://ciscakalmijn.github.io
 
 # Footer info
 affiliation: >
-  Jesse Straat<br/>
+  Cisca Kalmijn<br/>
   Mathematics PhD candidate<br/>
-  Vrije Universiteit Amsterdam
+  Radboud Universiteit Nijmegen
 
 location: >
-  Nieuwe Universiteitsgebouw<br/>
-  De Boelelaan 1111<br/>
-  1081 HV Amsterdam
+  Huygensgebouw<br/>
+  Heyendaalseweg 135<br/>
+  6525AJ Nijmegen
 
 contact: >
-  <i class="fa fa-envelope fa-1x"></i> j.r.h.[surname]&ltat&gtvu.nl <br/>
+  <i class="fa fa-envelope fa-1x"></i> cisca.[surname]&ltat&gtru.nl <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
@@ -34,8 +34,6 @@ nav_pages:
     location: research
   - name: Talks & conferences
     location: talks-conferences
-  - name: LaTeX
-    location: latex
   - name: Blog
     location: blog
 

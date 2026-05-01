@@ -33,8 +33,8 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Floer Theory and Quantum Mechanics</h4>
+<h4>Noncommutative Geometry and Emergence</h4>
 
-Floer theory concerns the existence and construction of periodic solutions of (classical) Hamiltonian systems. In particular, we like to get lower bounds on the number of solutions, known as cuplength estimates. I aim to expand the framework to the quantum realm, by providing approximations and methods. The ultimate goal is to improve our understanding of quantum mechanics through the mathematics.
+Noncommutative geometry is a mathematical framework invented to unify (differential) geometry and physical theories such as quantum mechanics and the standard model of particle physics. The usual starting data of a Hilbert space, a self-adjoint operator, and an algebra, can be linked to a classical mechanical system, where the operator encompasses the geometry of the space. To get notions such as entropy, and therefore emergent behaviour, we must look at a second quantisation of this quantum space. The goal is to understand the meaning and to introduce notions such as entropy in the general framework of noncommutative geometry. 
 </div>
 </div>
