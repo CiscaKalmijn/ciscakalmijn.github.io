@@ -64,7 +64,7 @@ kramdown:
   enable_coderay: false
   parse_block_html: true
 
-plugins: ["jekyll/scholar", "jekyll-sitemap"]
+plugins: ["jekyll/scholar", "jekyll-sitemap", "jekyll-pdf-embed"]
 
 scholar:
   style: citesty
