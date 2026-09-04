@@ -1,3 +1,18 @@
+- name: GQT Graduate  School and Colloquium 2026
+  type: conference
+  start_date: 2026-08-24
+  role: attended
+  location: de Poort, Groesbeek
+  website: https://indico.imapp.ru.nl/event/365/overview
+- name: Noncommutative geometry along the North Sea 2026
+  type: conference
+  website: https://ncgandtprague.wordpress.com/noseag/
+  start_date: 2026-08-10
+  end_date: 2026-08-14
+  role: contributed
+  # attended / invited / contributed / organised / speaker (for seminars) / regular (for seminars)
+  location: Charles University, Prague
+  talk_title: Entropy of noncommutative spaces (lightning talk)
 - name: Interfaces of Spectral Theory, Operator Algebras and Noncommutative Geometry
   type: conference
   start_date: 2026-06-29
