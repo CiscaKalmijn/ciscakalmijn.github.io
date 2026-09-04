@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cisca Kalmijn</title>
+    <description>Academic webpage of Cisca Kalmijn</description>
+    <link>https://ciscakalmijn.github.io/</link>
+    <atom:link href="https://ciscakalmijn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:33 +0000</lastBuildDate>
+    
+    <item>
+      <title>Nijmeegse vierdaagsefeesten: science outreach for children</title>
+      <description>Doing a PhD is not only about doing research, contact with others about your research is very important. Often this means going to a conference or talking to other mathematicians at the university, but sometimes it means explaining your research to children. This was the idea of the children’s square at the vierdaagsefeesten in Nijmegen (parties around the walking event where children and adults walk long distances during 4 days): reach as many children as possible and show how fun science can be. Winning with mathematics Since my own research on entropy in noncommutative geometry is a bit too advanced...</description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <link>https://ciscakalmijn.github.io/outreach/2026/07/25/science-outreach.html</link>
+      <guid isPermaLink="true">https://ciscakalmijn.github.io/outreach/2026/07/25/science-outreach.html</guid>
+    </item>
+    
+    <item>
+      <title>Poster Entropy in Noncommutative Geometry</title>
+      <description>In this first real blog post, I want to show and explain a poster I have made. Last April the Emergence at All Scales consortium held its first annual meeting, here I did not only give an introductory presentation for my project, I also showcased a poster with the name ``Entropy in Noncommutative Geometry’’. Since this consortium consists of scientists with different backgrounds, the target audience consists of physicists, who have worked with notions such as entropy and field theory before, but have probably never heard of noncommutative geometry. While the poster was definitely made with this in mind, it...</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <link>https://ciscakalmijn.github.io/research/2026/07/17/poster.html</link>
+      <guid isPermaLink="true">https://ciscakalmijn.github.io/research/2026/07/17/poster.html</guid>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <description>Welcome to my blog, I hope to encounter many fascinating subjects to write about in this part, but there is a large chance I will get busy with other things, so it might get abandonded pretty quickly.
+</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <link>https://ciscakalmijn.github.io/meta/2026/05/01/introduction.html</link>
+      <guid isPermaLink="true">https://ciscakalmijn.github.io/meta/2026/05/01/introduction.html</guid>
+    </item>
+    
+    
+  </channel>
+</rss>

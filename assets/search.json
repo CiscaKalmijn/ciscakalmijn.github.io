@@ -1,0 +1,29 @@
+[{
+  "title": "About",
+  "url": "/about/",
+  "content": "About\n\n\n  \n    \n    \n      Cisca Kalmijn\n      Mathematics PhD candidate, Radboud Universiteit Nijmegen\n      \n        \n\n        \n\n      \n\n      \n\n(2025) MSc Mathematical Sciences, Utrecht University\n\n(2025) MSc Theoretical Physics, Utrecht University\n\n(2022) BSc Mathematics, Utrecht University\n\n(2022) BSc Physics, Utrecht University\n\n\n\n    \n  \n\n"
+},{
+  "title": "Blog",
+  "url": "/blog/",
+  "content": "\n  Sort by category\n  \n    \n      25 Jul 2026: Nijmeegse vierdaagsefeesten: science outreach for children\n    \n  \n    \n      17 Jul 2026: Poster Entropy in Noncommutative Geometry\n    \n  \n    \n      01 May 2026: Introduction\n    \n  \n\n"
+},{
+  "title": "Blogs by category",
+  "url": "/blog/categories/",
+  "content": "← Back to blogs by date\n\nList of categories\n\n\n  \n  \n    Meta\n  \n  \n  \n    research\n  \n  \n  \n    outreach\n  \n  \n\n\nMeta\n\n  \n  \n    01 May 2026: Introduction\n  \n  \n\n\nresearch\n\n  \n  \n    17 Jul 2026: Poster Entropy in Noncommutative Geometry\n  \n  \n\n\noutreach\n\n  \n  \n    25 Jul 2026: Nijmeegse vierdaagsefeesten: science outreach for children\n  \n  \n\n\n"
+},{
+  "title": "Home",
+  "url": "/",
+  "content": "Cisca Kalmijn\nMathematics PhD candidate, Radboud Universiteit Nijmegen\n\nWelcome!\n\nThis is the lander of my personal webpage. Here, you can find information about my research, publications, and talks and conferences. Moreover, I (try to) keep up with a blog.\n\nAbout me\n\nI am a mathematics PhD candidate at the Radboud Universiteit in Nijmegen. Under the supervision of Walter van Suijlekom, I work on notions such as entropy in noncommutative (differential) geometry. I am a member of the consortium Emergence at All Scales, see also https://www.d-iep.org/eaas.\n"
+},{
+  "title": "Publications",
+  "url": "/publications/",
+  "content": "Publications\n\nThere’s nothing here yet! Check back later.\n\n\n\n\n  Preprints\n\n  \n\n  Journal articles\n\n  \n\n"
+},{
+  "title": "Research",
+  "url": "/research/",
+  "content": "Research\n\n\n\n  \n    \n      Noncommutative Geometry and Emergence\n      Noncommutative geometry is a mathematical framework invented to unify (differential) geometry and physical theories such as quantum mechanics and the standard model of particle physics. The usual starting data of a Hilbert space, a self-adjoint operator, and an algebra, can be linked to a classical mechanical system, where the operator encompasses the geometry of the space. To get notions such as entropy, and therefore emergent behaviour, we must look at a second quantisation of this quantum space. The goal is to understand the meaning and to introduce notions such as entropy in the general framework of noncommutative geometry.\n    \n  \n\n\n"
+},{
+  "title": "Talks & conferences",
+  "url": "/talks-conferences/",
+  "content": "\nContributed events\n{% assign contributed_conferences = site.data.talks-conferences | where: \"role\", \"contributed\" | sort: \"start_date\" | reverse %}\n{% for entry in contributed_conferences %}\n\n  ({{ entry.start_date | date: \"%B %Y\" }}) {{ entry.name }} at {{ entry.location }}.{% if entry.talk_title %} {{entry.talk_title}}{% endif %}\n\n{% endfor %}\n\n\n\nAttended events\n{% assign attended_conferences = site.data.talks-conferences | where: \"role\", \"attended\" | sort: \"start_date\" | reverse %}\n{% for entry in attended_conferences %}\n\n  ({{ entry.start_date | date: \"%B %Y\" }}) {{ entry.name }} at {{ entry.location }}.{% if entry.talk_title %} {{entry.talk_title}}{% endif %}\n\n{% endfor %}\n\n\n\nSeminar talks\n{% assign spoken_seminars = site.data.talks-conferences | where: \"role\", \"speaker\" | sort: \"start_date\" | reverse %}\n{% for entry in spoken_seminars %}\n\n  ({{ entry.start_date | date: \"%B %Y\" }}) {{ entry.name }} at {{ entry.location }}.{% if entry.talk_title %} {{entry.talk_title}}{% endif %}\n\n{% endfor %}\n\n\n\nSeminars regularly attended\n{% assign spoken_seminars = site.data.talks-conferences | where: \"role\", \"regular\" | sort: \"start_date\" | reverse %}\n{% for entry in spoken_seminars %}\n\n  ({{ entry.start_date | date: \"%B %Y\" }}–{% if entry.end_date %}{{entry.end_date | date: \"%B %Y\"}}{% else %}current{% endif %}) {{ entry.name }} at {{ entry.location }}.{% if entry.talk_title %} {{entry.talk_title}}{% endif %}\n\n{% endfor %}\n"
+}]
