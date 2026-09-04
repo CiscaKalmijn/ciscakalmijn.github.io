@@ -2,6 +2,8 @@
 layout: post
 title: "Nijmeegse vierdaagsefeesten: science outreach for children"
 date: 2026-07-25
+categories: 
+- outreach
 ---
 
 Doing a PhD is not only about doing research, contact with others about your research is very important. Often this means going to a conference or talking to other mathematicians at the university, but sometimes it means explaining your research to children. This was the idea of the children's square at the vierdaagsefeesten in Nijmegen (parties around the walking event where children and adults walk long distances during 4 days): reach as many children as possible and show how fun science can be. 
