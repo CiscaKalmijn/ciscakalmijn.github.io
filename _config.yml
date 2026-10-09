@@ -71,6 +71,8 @@ scholar:
   locale: en
   source: /assets/
   bibliography: ref.bib
+  bibtex_filters: [smallcaps, superscript]
+  bibtex_skip_fields: [ abstract, month_numeric, year, month ]
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
