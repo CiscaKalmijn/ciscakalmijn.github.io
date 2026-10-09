@@ -14,3 +14,6 @@ This is the lander of my personal webpage. Here, you can find information about 
 ### About me
 
 I am a mathematics PhD candidate at the Radboud Universiteit in Nijmegen. Under the supervision of Walter van Suijlekom, I work on notions such as entropy in noncommutative (differential) geometry. I am a member of the consortium Emergence at All Scales, see also [https://www.d-iep.org/eaas](https://www.d-iep.org/eaas).
+
+### NedCG seminar
+I am currently one of the organisers of the NedCG seminar, a seminar on K-theory and KK-theory taking place in Amsterdam, Nijmegen and Leiden. See the [website of co-organiser Jort de Groot](https://sites.google.com/view/jortdegroot/nedcg-seminar-2026) for more information. 
